@@ -1,0 +1,905 @@
+Current TIP = -1
+In the last 2s, tx count = 0 latency = 0.00424486 outstanding request = 2
+In the last 2s, tx count = 0 latency = 0 outstanding request = 38
+polled block -1 : 0 txs 
+polled block 0 : 0 txs ppolled block 1 : 51 txs ppolled block 2 : 360 txs ppolled block 3 : 500 txs 
+polled block 4 : 0 txs ppolled block 5 : 0 txs ppolled block 6 : 500 txs polled block 7 : 500 txs 
+ppolled block 8 : 500 txs polled block 9 : 500 txs 
+polled block 10 : 0 txs polled block 11 : 500 txs polled block 12 : 500 txs ppolled block 13 : 0 txs ppolled block 14 : 500 txs polled block 15 : 0 txs 
+ppolled block 16 : 500 txs ppolled block 17 : 500 txs polled block 18 : 500 txs 
+polled block 19 : 500 txs 
+polled block 20 : 500 txs 
+ppolled block 21 : 500 txs ppolled block 22 : 500 txs polled block 23 : 500 txs 
+polled block 24 : 500 txs 
+ppolled block 25 : 500 txs ppolled block 26 : 500 txs polled block 27 : 500 txs 
+ppolled block 28 : 500 txs ppolled block 29 : 500 txs ppolled block 30 : 500 txs ppolled block 31 : 500 txs 
+polled block 32 : 500 txs 
+polled block 33 : 500 txs 
+polled block 34 : 500 txs ppolled block 35 : 500 txs 
+polled block 36 : 500 txs ppolled block 37 : 500 txs ppolled block 38 : 500 txs ppolled block 39 : 500 txs ppolled block 40 : 500 txs 
+polled block 41 : 500 txs 
+polled block 42 : 500 txs 
+polled block 43 : 500 txs 
+polled block 44 : 500 txs 
+polled block 45 : 500 txs 
+polled block 46 : 500 txs 
+polled block 47 : 500 txs ppolled block 48 : 500 txs polled block 49 : 0 txs 
+ppolled block 50 : 500 txpolpolled block 51 : 500 txpolpolled block 52 : 500 txs 
+polled block 53 : 500 txs 
+polled block 54 : 500 txpolpolled block 55 : 500 txpolpolled block 56 : 500 txpolpolled block 57 : 500 txpolpolled block 58 : 500 txpolpolled block 59 : 500 txs 
+polled block 60 : 500 txs 
+polled block 61 : 500 txs 
+polled block 62 : 500 txs 
+polled block 63 : 500 txs 
+polled block 64 : 500 txs 
+polled block 65 : 500 txs 
+polled block 66 : 0 txs 
+polled block 67 : 500 txs 
+polled block 68 : 500 txs 
+polled block 69 : 500 txs 
+polled block 70 : 461 txs 
+polled block 71 : 500 txs 
+polled block 72 : 500 txs 
+polled block 73 : 500 txs 
+polled block 74 : 500 txs 
+polled block 75 : 500 txs 
+polled block 76 : 500 txs 
+polled block 77 : 500 txs 
+polled block 78 : 500 txs 
+polled block 79 : 500 txs 
+polled block 80 : 500 txs 
+polled block 81 : 500 txs 
+polled block 82 : 500 txs 
+polled block 83 : 500 txs 
+polled block 84 : 500 txs 
+polled block 85 : 500 txs 
+polled block 86 : 500 txs 
+polled block 87 : 500 txs 
+polled block 88 : 500 txs 
+polled block 89 : 500 txs 
+polled block 90 : 12 txs 
+polled block 91 : 41 txs 
+polled block 92 : 500 txs 
+polled block 93 : 500 txs 
+polled block 94 : 500 txs 
+polled block 95 : 500 txs 
+polled block 96 : 500 txs 
+polled block 97 : 500 txs 
+polled block 98 : 500 txs 
+polled block 99 : 500 txs 
+polled block 100 : 500 txs 
+polled block 101 : 500 txs 
+polled block 102 : 500 txs 
+polled block 103 : 500 txs 
+polled block 104 : 63 txs 
+polled block 105 : 359 txs 
+polled block 106 : 500 txs 
+polled block 107 : 500 txs 
+polled block 108 : 500 txs 
+polled block 109 : 500 txs 
+polled block 110 : 500 txs 
+polled block 111 : 500 txs 
+polled block 112 : 500 txs 
+polled block 113 : 500 txs 
+polled block 114 : 500 txs 
+polled block 115 : 500 txs 
+polled block 116 : 500 txs 
+polled block 117 : 500 txs 
+polled block 118 : 500 txs 
+polled block 119 : 500 txs 
+polled block 120 : 500 txs 
+polled block 121 : 500 txs 
+polled block 122 : 500 txs 
+polled block 123 : 500 txs 
+polled block 124 : 500 txs 
+polled block 125 : 500 txs 
+polled block 126 : 500 txs 
+polled block 127 : 500 txs 
+polled block 128 : 500 txs 
+polled block 129 : 500 txs 
+polled block 130 : 500 txs 
+polled block 131 : 500 txs 
+polled block 132 : 500 txs 
+polled block 133 : 500 txs 
+polled block 134 : 500 txs 
+polled block 135 : 500 txs 
+polled block 136 : 500 txs 
+polled block 137 : 500 txs 
+polled block 138 : 500 txs 
+polled block 139 : 500 txs 
+polled block 140 : 500 txs 
+polled block 141 : 500 txs 
+polled block 142 : 500 txs 
+polled block 143 : 500 txs 
+polled block 144 : 500 txs 
+polled block 145 : 500 txs 
+polled block 146 : 500 txs 
+polled block 147 : 500 txs 
+polled block 148 : 0 txs 
+polled block 149 : 0 txs 
+polled block 150 : 0 txs 
+polled block 151 : 0 txs 
+polled block 152 : 0 txs 
+polled block 153 : 0 txs 
+polled block 154 : 0 txs 
+polled block 155 : 0 txs 
+polled block 156 : 0 txs 
+polled block 157 : 0 txs 
+polled block 158 : 0 txs 
+polled block 159 : 0 txs 
+polled block 160 : 0 txs 
+polled block 161 : 0 txs 
+polled block 162 : 0 txs 
+polled block 163 : 0 txs 
+polled block 164 : 0 txs 
+polled block 165 : 0 txs 
+polled block 166 : 0 txs 
+polled block 167 : 0 txs 
+polled block 168 : 0 txs 
+polled block 169 : 0 txs 
+polled block 170 : 0 txs 
+polled block 171 : 0 txs 
+polled block 172 : 0 txs 
+polled block 173 : 0 txs 
+polled block 174 : 0 txs 
+polled block 175 : 0 txs 
+polled block 176 : 0 txs 
+polled block 177 : 0 txs 
+polled block 178 : 0 txs 
+polled block 179 : 0 txs 
+polled block 180 : 0 txs 
+polled block 181 : 0 txs 
+polled block 182 : 0 txs 
+polled block 183 : 0 txs 
+polled block 184 : 0 txs 
+polled block 185 : 0 txs 
+polled block 186 : 0 txs 
+polled block 187 : 0 txs 
+polled block 188 : 0 txs 
+polled block 189 : 0 txs 
+polled block 190 : 0 txs 
+polled block 191 : 0 txs 
+polled block 192 : 0 txs 
+polled block 193 : 0 txs 
+polled block 194 : 0 txs 
+polled block 195 : 0 txs 
+polled block 196 : 0 txs 
+polled block 197 : 0 txs 
+polled block 198 : 0 txs 
+polled block 199 : 0 txs 
+polled block 200 : 0 txs 
+polled block 201 : 0 txs 
+polled block 202 : 0 txs 
+polled block 203 : 0 txs 
+polled block 204 : 0 txs 
+polled block 205 : 0 txs 
+polled block 206 : 0 txs 
+polled block 207 : 0 txs 
+polled block 208 : 0 txs 
+polled block 209 : 0 txs 
+polled block 210 : 0 txs 
+polled block 211 : 0 txs 
+polled block 212 : 0 txs 
+polled block 213 : 0 txs 
+polled block 214 : 0 txs 
+polled block 215 : 0 txs 
+polled block 216 : 0 txs 
+polled block 217 : 0 txs 
+polled block 218 : 0 txs 
+polled block 219 : 0 txs 
+polled block 220 : 0 txs 
+polled block 221 : 0 txs 
+polled block 222 : 0 txs 
+polled block 223 : 0 txs 
+polled block 224 : 0 txs 
+polled block 225 : 0 txs 
+polled block 226 : 0 txs 
+polled block 227 : 0 txs 
+polled block 228 : 0 txs 
+polled block 229 : 0 txs 
+polled block 230 : 0 txs 
+polled block 231 : 0 txs 
+polled block 232 : 0 txs 
+polled block 233 : 0 txs 
+polled block 234 : 0 txs 
+polled block 235 : 0 txs 
+polled block 236 : 0 txs 
+polled block 237 : 0 txs 
+polled block 238 : 0 txs 
+polled block 239 : 0 txs 
+polled block 240 : 0 txs 
+polled block 241 : 0 txs 
+polled block 242 : 0 txs 
+polled block 243 : 0 txs 
+polled block 244 : 0 txs 
+polled block 245 : 0 txs 
+polled block 246 : 0 txs 
+polled block 247 : 0 txs 
+polled block 248 : 0 txs 
+polled block 249 : 0 txs 
+polled block 250 : 0 txs 
+polled block 251 : 0 txs 
+polled block 252 : 0 txs 
+polled block 253 : 0 txs 
+polled block 254 : 0 txs 
+polled block 255 : 0 txs 
+polled block 256 : 0 txs 
+polled block 257 : 0 txs 
+polled block 258 : 0 txs 
+polled block 259 : 0 txs 
+polled block 260 : 0 txs 
+polled block 261 : 0 txs 
+polled block 262 : 0 txs 
+polled block 263 : 0 txs 
+polled block 264 : 0 txs 
+polled block 265 : 0 txs 
+polled block 266 : 0 txs 
+polled block 267 : 0 txs 
+polled block 268 : 0 txs 
+polled block 269 : 0 txs 
+polled block 270 : 0 txs 
+polled block 271 : 0 txs 
+polled block 272 : 0 txs 
+polled block 273 : 0 txs 
+polled block 274 : 0 txs 
+polled block 275 : 0 txs 
+polled block 276 : 0 txs 
+polled block 277 : 0 txs 
+polled block 278 : 0 txs 
+polled block 279 : 0 txs 
+polled block 280 : 0 txs 
+polled block 281 : 0 txs 
+polled block 282 : 0 txs 
+polled block 283 : 0 txs 
+polled block 284 : 0 txs 
+polled block 285 : 0 txs 
+polled block 286 : 0 txs 
+polled block 287 : 0 txs 
+polled block 288 : 0 txs 
+polled block 289 : 0 txs 
+polled block 290 : 0 txs 
+polled block 291 : 0 txs 
+polled block 292 : 0 txs 
+polled block 293 : 0 txs 
+polled block 294 : 0 txs 
+polled block 295 : 0 txs 
+polled block 296 : 0 txs 
+polled block 297 : 0 txs 
+polled block 298 : 0 txs 
+polled block 299 : 0 txs 
+polled block 300 : 0 txs 
+polled block 301 : 0 txs 
+polled block 302 : 0 txs 
+polled block 303 : 0 txs 
+polled block 304 : 0 txs 
+polled block 305 : 0 txs 
+polled block 306 : 0 txs 
+polled block 307 : 0 txs 
+polled block 308 : 0 txs 
+polled block 309 : 0 txs 
+polled block 310 : 0 txs 
+polpolled block 311 : 0 txpolpolled block 312 : 500 txs 
+polled block 313 : 0 txs 
+polled block 314 : 0 txs 
+polled block 315 : 0 txs 
+polled block 316 : 0 txs 
+polled block 317 : 0 txs 
+polled block 318 : 0 txs 
+polled block 319 : 0 txs 
+polled block 320 : 500 txs 
+polled block 321 : 0 txs 
+polled block 322 : 500 txs 
+polled block 323 : 0 txs 
+polled block 324 : 0 txs 
+polled block 325 : 0 txs 
+polled block 326 : 0 txs 
+polled block 327 : 0 txs 
+polled block 328 : 0 txs 
+polled block 329 : 0 txs 
+polled block 330 : 0 txs 
+polled block 331 : 0 txs 
+polled block 332 : 0 pollepolled block 333 : 0 pollepolled block 334 : 0 pollepolled block 335 : 0 polled block 336 : 0 txs 
+pollepolled block 337 : 0 polled block 338 : 0 txs 
+pollepolled block 339 : 0 polled block 340 : 0 txs 
+polled block 341 : 0 txs 
+polled block 342 : 0 txs 
+polled block 343 : 0 txs 
+polled block 344 : 0 txs 
+polled block 345 : 0 txs 
+polled block 346 : 0 txs 
+polled block 347 : 0 txs 
+polled block 348 : 0 txs 
+polled block 349 : 0 txs 
+polled block 350 : 0 txs 
+polled block 351 : 500 txs 
+polled block 352 : 0 txs 
+polled block 353 : 500 txs 
+polled block 354 : 0 txs 
+polled block 355 : 500 txs 
+polled block 356 : 500 txs 
+polled block 357 : 500 txs 
+polled block 358 : 500 txs 
+polled block 359 : 500 txs 
+polled block 360 : 500 txs 
+polled block 361 : 500 txs 
+polled block 362 : 0 txs 
+polled block 363 : 0 txs 
+polled block 364 : 0 txs 
+polled block 365 : 0 txs 
+polled block 366 : 500 txs 
+polled block 367 : 500 txs 
+polled block 368 : 500 txs 
+polled block 369 : 500 txs 
+polled block 370 : 0 txs 
+polled block 371 : 500 txs 
+polled block 372 : 500 txs 
+polled block 373 : 500 txs 
+polled block 374 : 500 txs 
+polled block 375 : 500 txs 
+polled block 376 : 500 txs 
+polled block 377 : 500 txs 
+polled block 378 : 500 txs 
+polled block 379 : 186 txs 
+polled block 380 : 500 txs 
+polled block 381 : 500 txs 
+polled block 382 : 500 txs 
+polled block 383 : 500 txs 
+polled block 384 : 500 txs 
+polled block 385 : 500 txs 
+polled block 386 : 500 txs 
+polled block 387 : 500 txs 
+polled block 388 : 500 txs 
+polled block 389 : 500 txs 
+polled block 390 : 500 txs 
+polled block 391 : 500 txs 
+polled block 392 : 500 txs 
+polled block 393 : 500 txs 
+polled block 394 : 500 txs 
+polled block 395 : 500 txs 
+polled block 396 : 500 txs 
+polled block 397 : 500 txs 
+polled block 398 : 500 txs 
+polled block 399 : 500 txs 
+polled block 400 : 500 txs 
+polled block 401 : 500 txs 
+polled block 402 : 500 txs 
+polled block 403 : 500 txs 
+polled block 404 : 500 txs 
+polled block 405 : 500 txs 
+polled block 406 : 500 txs 
+polled block 407 : 500 txs 
+polled block 408 : 500 txs 
+polled block 409 : 500 txs 
+polled block 410 : 190 txs 
+polled block 411 : 500 txs 
+polled block 412 : 500 txs 
+polled block 413 : 500 txs 
+polled block 414 : 500 txs 
+polled block 415 : 500 txs 
+polled block 416 : 500 txs 
+polled block 417 : 500 txs 
+polled block 418 : 500 txs 
+polled block 419 : 500 txs 
+polled block 420 : 500 txs 
+polled block 421 : 500 txs 
+polled block 422 : 500 txs 
+polled block 423 : 500 txs 
+polled block 424 : 500 txs 
+polled block 425 : 500 txs 
+polled block 426 : 500 txs 
+polled block 427 : 500 txs 
+polled block 428 : 500 txs 
+polled block 429 : 500 txs 
+polled block 430 : 500 txs 
+polled block 431 : 500 txs 
+polled block 432 : 500 txs 
+polled block 433 : 500 txs 
+polled block 434 : 500 txs 
+polled block 435 : 500 txs 
+polled block 436 : 500 txs 
+polled block 437 : 500 txs 
+polled block 438 : 500 txs 
+polled block 439 : 500 txs 
+polled block 440 : 500 txs 
+polled block 441 : 500 txs 
+polled block 442 : 500 txs 
+polled block 443 : 500 txs 
+polled block 444 : 500 txs 
+polled block 445 : 500 txs 
+polled block 446 : 500 txs 
+polled block 447 : 500 txs 
+polled block 448 : 500 txs 
+polled block 449 : 500 txs 
+polled block 450 : 500 txs 
+polled block 451 : 500 txs 
+polled block 452 : 500 txs 
+polled block 453 : 500 txs 
+polled block 454 : 500 txs 
+polled block 455 : 500 txs 
+polled block 456 : 500 txs 
+polled block 457 : 500 txs 
+polled block 458 : 500 txs 
+polled block 459 : 500 txs 
+polled block 460 : 500 txs 
+polled block 461 : 500 txs 
+polled block 462 : 500 txs 
+polled block 463 : 500 txs 
+polled block 464 : 500 txs 
+polled block 465 : 500 txs 
+polled block 466 : 500 txs 
+polled block 467 : 500 txs 
+polled block 468 : 500 txs 
+polled block 469 : 500 txs 
+polled block 470 : 500 txs 
+polled block 471 : 500 txs 
+polled block 472 : 500 txs 
+polled block 473 : 500 txs 
+polled block 474 : 500 txs 
+polled block 475 : 500 txs 
+polled block 476 : 500 txs 
+polled block 477 : 500 txs 
+polled block 478 : 500 txs 
+polled block 479 : 500 txs 
+polled block 480 : 500 txs 
+polled block 481 : 500 txs 
+polled block 482 : 500 txs 
+polled block 483 : 500 txs 
+polled block 484 : 500 txs 
+polled block 485 : 500 txs 
+polled block 486 : 500 txs 
+polled block 487 : 500 txs 
+polled block 488 : 500 txs 
+polled block 489 : 500 txs 
+polled block 490 : 500 txs 
+polled block 491 : 500 txs 
+polled block 492 : 0 txs 
+polled block 493 : 0 txs 
+polled block 494 : 0 txs 
+polled block 495 : 0 txs 
+polled block 496 : 0 txs 
+polled block 497 : 0 txs 
+polled block 498 : 0 txs 
+polled block 499 : 0 txs 
+polled block 500 : 0 txs 
+polled block 501 : 0 txs 
+polled block 502 : 0 txs 
+polled block 503 : 0 txs 
+polled block 504 : 0 txs 
+polled block 505 : 0 txs 
+polled block 506 : 0 txs 
+polled block 507 : 0 txs 
+polled block 508 : 0 txs 
+polled block 509 : 0 txs 
+polled block 510 : 0 txs 
+polled block 511 : 0 txs 
+polled block 512 : 0 txs 
+polled block 513 : 0 txs 
+polled block 514 : 0 txs 
+polled block 515 : 0 txs 
+polled block 516 : 0 txs 
+polled block 517 : 0 txs 
+polled block 518 : 0 txs 
+polled block 519 : 0 txs 
+polled block 520 : 0 txs 
+polled block 521 : 0 txs 
+polled block 522 : 0 txs 
+polled block 523 : 0 txs 
+polled block 524 : 0 txs 
+polled block 525 : 0 txs 
+polled block 526 : 0 txs 
+polled block 527 : 0 txs 
+polled block 528 : 0 txs 
+polled block 529 : 0 txs 
+polled block 530 : 0 txs 
+polled block 531 : 0 txs 
+polled block 532 : 0 txs 
+polled block 533 : 0 txs 
+polled block 534 : 0 txs 
+polled block 535 : 0 txs 
+polled block 536 : 0 txs 
+polled block 537 : 0 txs 
+polled block 538 : 0 txs 
+polled block 539 : 0 txs 
+polled block 540 : 0 txs 
+polled block 541 : 0 txs 
+polled block 542 : 0 txs 
+polled block 543 : 0 txs 
+polled block 544 : 0 txs 
+polled block 545 : 0 txs 
+polled block 546 : 0 txs 
+polled block 547 : 0 txs 
+polled block 548 : 0 txs 
+polled block 549 : 0 txs 
+polled block 550 : 0 txs 
+polled block 551 : 0 txs 
+polled block 552 : 0 txs 
+polled block 553 : 0 txs 
+polled block 554 : 0 txs 
+polled block 555 : 0 txs 
+polled block 556 : 0 txs 
+polled block 557 : 0 txs 
+polled block 558 : 0 txs 
+polled block 559 : 0 txs 
+polled block 560 : 0 txs 
+polled block 561 : 0 txs 
+polled block 562 : 0 txs 
+polled block 563 : 0 txs 
+polled block 564 : 0 txs 
+polled block 565 : 0 txs 
+polled block 566 : 0 txs 
+polled block 567 : 0 txs 
+polled block 568 : 0 txs 
+polled block 569 : 0 txs 
+polled block 570 : 0 txs 
+polled block 571 : 0 txs 
+polled block 572 : 0 txs 
+polled block 573 : 0 txs 
+polled block 574 : 0 txs 
+polled block 575 : 0 txs 
+polled block 576 : 0 txs 
+polled block 577 : 0 txs 
+polled block 578 : 0 txs 
+polled block 579 : 0 txs 
+polled block 580 : 0 txs 
+polled block 581 : 0 txs 
+polled block 582 : 0 txs 
+polled block 583 : 0 txs 
+polled block 584 : 0 txs 
+polled block 585 : 0 txs 
+polled block 586 : 0 txs 
+polled block 587 : 0 txs 
+polled block 588 : 0 txs 
+polled block 589 : 0 txs 
+polled block 590 : 0 txs 
+polled block 591 : 0 txs 
+polled block 592 : 0 txs 
+polled block 593 : 0 txs 
+polled block 594 : 0 txs 
+polled block 595 : 0 txs 
+polled block 596 : 0 txs 
+polled block 597 : 0 txs 
+polled block 598 : 0 txs 
+polled block 599 : 0 txs 
+polled block 600 : 0 txs 
+polled block 601 : 0 txs 
+polled block 602 : 0 txs 
+polled block 603 : 0 txs 
+polled block 604 : 0 txs 
+polled block 605 : 0 txs 
+polled block 606 : 0 txs 
+polled block 607 : 0 txs 
+polled block 608 : 0 txs 
+polled block 609 : 0 txs 
+polled block 610 : 0 txs 
+polled block 611 : 0 txs 
+polled block 612 : 0 txs 
+polled block 613 : 0 txs 
+polled block 614 : 0 txs 
+polled block 615 : 0 txs 
+polled block 616 : 0 txs 
+polled block 617 : 0 txs 
+polled block 618 : 0 txs 
+polled block 619 : 0 txs 
+polled block 620 : 0 txs 
+polled block 621 polled blpolled block 622 polled block 622 : 0 txs 
+polled blpolled block 624 polled block 624 : 0 txs 
+polled blpolled block 626 : 0 txs 
+polled block 627 : 0 txs 
+polled block 628 : 0 txs 
+polled block 629 : 0 txs 
+polled block 630 : 0 txs 
+polled block 631 : 0 txs 
+polled block 632 : 0 txs 
+polled block 633 : 0 txs 
+polled block 634 : 0 txs 
+polled block 635 : 0 txs 
+polled block 636 : 0 txs 
+polled block 637 : 0 txs 
+polled block 638 : 0 txs 
+polled block 639 : 0 txs 
+polled block 640 : 0 txs 
+polled block 641 : 0 txs 
+polled block 642 : 0 txs 
+polled block 643 : 0 txs 
+polled block 644 : 0 txs 
+polled block 645 : 0 txs 
+polled block 646 : 0 txs 
+polled block 647 : 0 txs 
+polled block 648 : 0 txs 
+polled block 649 : 0 txs 
+polled block 650 : 0 txs 
+polled block 651 : 0 txs 
+polled block 652 : 0 txs 
+polled block 653 : 0 txs 
+polled block 654 : 0 txs 
+polled block 655 : 0 txs 
+polled block 656 polled blpolled block 657 : 0 txs 
+polled block 658 polled block 658 : 0 txs 
+polled block 659 : 0 txs 
+polled block 660 : 0 txs 
+polled block 661 : 0 txs 
+polled block 662 : 0 txs 
+polled block 663 : 0 txs 
+polled block 664 : 0 txs 
+polled block 665 : 0 txs 
+polled block 666 : 0 txs 
+polled block 667 : 0 txs 
+polled block 668 : 0 txs 
+polled block 669 : 0 txs 
+polled block 670 : 0 txs 
+polled block 671 : 0 txs 
+polled block 672 : 0 txs 
+polled block 673 : 0 txs 
+polled block 674 : 0 txs 
+polled block 675 : 0 txs 
+polled block 676 : 0 txs 
+polled block 677 : 0 txs 
+polled block 678 : 0 txs 
+polled block 679 : 0 txs 
+polled block 680 : 0 txs 
+polled block 681 : 0 txs 
+polled block 682 : 0 txs 
+polled block 683 : 0 txs 
+polled block 684 : 0 txs 
+polled block 685 : 0 txs 
+polled block 686 : 0 txs 
+polled block 687 : 0 txs 
+polled block 688 : 500 txs 
+polled block 689 : 0 txs 
+polled block 690 : 0 txs 
+polled block 691 : 0 txs 
+polled block 692 : 0 txs 
+polled block 693 : 0 txs 
+polled block 694 : 0 txs 
+polled block 695 : 0 txs 
+polled block 696 : 0 txs 
+polled block 697 : 0 txs 
+polled block 698 : 0 txs 
+polled block 699 : 51 txs 
+polled block 700 : 0 txs 
+polled block 701 : 0 txs 
+polled block 702 : 0 txs 
+polled block 703 : 0 txs 
+polled block 704 : 0 txs 
+polled block 705 : 0 txs 
+polled block 706 : 0 txs 
+polled block 707 : 0 txs 
+polled block 708 : 0 txs 
+polled block 709 : 0 txs 
+polled block 710 : 0 txs 
+polled block 711 : 0 txs 
+polled block 712 : 0 txs 
+polled block 713 : 0 txs 
+polled block 714 : 0 txs 
+polled block 715 : 0 txs 
+polled block 716 : 0 txs 
+polled block 717 : 0 txs 
+polled block 718 : 0 txs 
+polled block 719 : 0 txs 
+polled block 720 : 0 txs 
+polled block 721 : 500 txs 
+polled block 722 : 500 txs 
+polled block 723 : 0 txs 
+polled block 724 : 500 txs 
+polled block 725 : 500 txs 
+polled block 726 : 500 txs 
+polled block 727 : 500 txs 
+polled block 728 : 500 txs 
+polled block 729 : 500 txs 
+polled block 730 : 500 txs 
+polled block 731 : 500 txs 
+polled block 732 : 500 txs 
+polled block 733 : 0 txs 
+polled block 734 : 500 txs 
+polled block 735 : 500 txs 
+polled block 736 : 500 txs 
+polled block 737 : 500 txs 
+polled block 738 : 500 txs 
+polled block 739 : 500 txs 
+polled block 740 : 500 txs 
+polled block 741 : 500 txs 
+polled block 742 : 500 txs 
+polled block 743 : 500 txs 
+polled block 744 : 500 txs 
+polled block 745 : 500 txs 
+polled block 746 : 500 txs 
+polled block 747 : 500 txs 
+polled block 748 : 500 txs 
+polled block 749 : 500 txs 
+polled block 750 : 500 txs 
+polled block 751 : 500 txs 
+polled block 752 : 500 txs 
+polled block 753 : 500 txs 
+polled block 754 : 500 txs 
+polled block 755 : 500 txs 
+polled block 756 : 500 txs 
+polled block 757 : 500 txs 
+polled block 758 : 500 txs 
+polled block 759 : 500 txs 
+polled block 760 : 500 txs 
+polled block 761 : 500 txs 
+polled block 762 : 500 txs 
+polled block 763 : 500 txs 
+polled block 764 : 500 txs 
+polled block 765 : 500 txs 
+polled block 766 : 500 txs 
+polled block 767 : 500 txs 
+polled block 768 : 500 txs 
+polled block 769 : 500 txs 
+polled block 770 : 500 txs 
+polled block 771 : 500 txs 
+polled block 772 : 500 txs 
+polled block 773 : 500 txs 
+polled block 774 : 500 txs 
+polled block 775 : 500 txs 
+polled block 776 : 500 txs 
+polled block 777 : 500 txs 
+polled block 778 : 500 txs 
+polled block 779 : 500 txs 
+polled block 780 : 500 txs 
+polled block 781 : 500 txs 
+polled block 782 : 500 txs 
+polled block 783 : 500 txs 
+polled block 784 : 500 txs 
+polled block 785 : 500 txs 
+polled block 786 : 500 txs 
+polled block 787 : 500 txs 
+polled block 788 : 500 txs 
+polled block 789 : 500 txs 
+polled block 790 : 500 txs 
+polled block 791 : 500 txs 
+polled block 792 : 500 txs 
+polled block 793 : 500 txs 
+polled block 794 : 500 txs 
+polled block 795 : 500 txs 
+polled block 796 : 335 txs 
+polled block 797 : 3 txs 
+polled block 798 : 500 txs 
+polled block 799 : 500 txs 
+polled block 800 : 500 txs 
+polled block 801 : 500 txs 
+polled block 802 : 500 txs 
+polled block 803 : 500 txs 
+polled block 804 : 500 txs 
+polled block 805 : 500 txs 
+polled block 806 : 500 txs 
+polled block 807 : 500 txs 
+polled block 808 : 500 txs 
+polled block 809 : 500 txs 
+polled block 810 : 500 txs 
+polled block 811 : 500 txs 
+polled block 812 : 500 txs 
+polled block 813 : 500 txs 
+polled block 814 : 500 txs 
+polled block 815 : 500 txs 
+polled block 816 : 500 txs 
+polled block 817 : 500 txs 
+polled block 818 : 500 txs 
+polled block 819 : 500 txs 
+polled block 820 : 500 txs 
+polled block 821 : 500 txs 
+polled block 822 : 500 txs 
+polled block 823 : 500 txs 
+polled block 824 : 500 txs 
+polled block 825 : 500 txs 
+polled block 826 : 500 txs 
+polled block 827 : 500 txs 
+polled block 828 : 500 txs 
+polled block 829 : 500 txs 
+polled block 830 : 500 txs 
+polled block 831 : 500 txs 
+polled block 832 : 500 txs 
+polled block 833 : 500 txs 
+polled block 834 : 500 txs 
+polled block 835 : 500 txs 
+polled block 836 : 500 txs 
+polled block 837 : 500 txs 
+polled block 838 : 500 txs 
+polled block 839 : 500 txs 
+polled block 840 : 500 txs 
+polled block 841 : 500 txs 
+polled block 842 : 500 txs 
+polled block 843 : 500 txs 
+polled block 844 : 500 txs 
+polled block 845 : 500 txs 
+polled block 846 : 500 txs 
+polled block 847 : 500 txs 
+polled block 848 : 500 txs 
+polled block 849 : 500 txs 
+polled block 850 : 0 txs 
+polled block 851 : 0 txs 
+polled block 852 : 0 txs 
+polled block 853 : 0 txs 
+polled block 854 : 0 txs 
+polled block 855 : 0 txs 
+polled block 856 : 0 txs 
+polled block 857 : 0 txs 
+polled block 858 : 0 txs 
+polled block 859 : 0 txs 
+polled block 860 : 0 txs 
+polled block 861 : 0 txs 
+polled block 862 : 0 txs 
+polled block 863 : 0 txs 
+polled block 864 : 0 txs 
+polled block 865 : 0 txs 
+polled block 866 : 0 txs 
+polled block 867 : 0 txs 
+polled block 868 : 0 txs 
+polled block 869 : 0 txs 
+polled block 870 : 0 txs 
+polled block 871 : 0 txs 
+polled block 872 : 0 txs 
+In the last 2s, tx count = 0 latency = 0 outstanding request = 20374
+In the last 2s, tx count = 0 latency = 0 outstanding request = 20374
+In the last 2s, tx count = 0 latency = 0 outstanding request = 20374
+In the last 2s, tx count = 0 latency = 0 outstanding request = 20374
+In the last 2s, tx count = 0 latency = 0 outstanding request = 20374
+In the last 2s, tx count = 0 latency = 0 outstanding request = 20374
+In the last 2s, tx count = 0 latency = 0 outstanding request = 20374
+In the last 2s, tx count = 0 latency = 0 outstanding request = 20374
+In the last 2s, tx count = 0 latency = 0 outstanding request = 20374
+In the last 2s, tx count = 0 latency = 0 outstanding request = 20374
+In the last 2s, tx count = 0 latency = 0 outstanding request = 20374
+In the last 2s, tx count = 0 latency = 0 outstanding request = 20374
+In the last 2s, tx count = 0 latency = 0 outstanding request = 20374
+In the last 2s, tx count = 0 latency = 0 outstanding request = 20374
+In the last 2s, tx count = 0 latency = 0 outstanding request = 20385
+In the last 2s, tx count = 0 latency = 0 outstanding request = 20427
+In the last 2s, tx count = 0 latency = 0 outstanding request = 20441
+In the last 2s, tx count = 0 latency = 0 outstanding request = 20441
+In the last 2s, tx count = 0 latency = 0 outstanding request = 20697
+In the last 2s, tx count = 0 latency = 0 outstanding request = 20716
+In the last 2s, tx count = 0 latency = 0 outstanding request = 21018
+In the last 2s, tx count = 0 latency = 0 outstanding request = 21901
+In the last 2s, tx count = 0 latency = 0 outstanding request = 22656
+In the last 2s, tx count = 0 latency = 0 outstanding request = 23402
+In the last 2s, tx count = 0 latency = 0 outstanding request = 24507
+In the last 2s, tx count = 0 latency = 0 outstanding request = 25491
+In the last 2s, tx count = 0 latency = 0 outstanding request = 26534
+In the last 2s, tx count = 0 latency = 0 outstanding request = 27404
+In the last 2s, tx count = 0 latency = 0 outstanding request = 27404
+In the last 2s, tx count = 0 latency = 0 outstanding request = 27404
+In the last 2s, tx count = 0 latency = 0 outstanding request = 27404
+In the last 2s, tx count = 0 latency = 0 outstanding request = 27404
+In the last 2s, tx count = 0 latency = 0 outstanding request = 27404
+In the last 2s, tx count = 0 latency = 0 outstanding request = 27404
+In the last 2s, tx count = 0 latency = 0 outstanding request = 27404
+In the last 2s, tx count = 0 latency = 0 outstanding request = 27404
+In the last 2s, tx count = 0 latency = 0 outstanding request = 27404
+In the last 2s, tx count = 0 latency = 0 outstanding request = 27404
+In the last 2s, tx count = 0 latency = 0 outstanding request = 27404
+In the last 2s, tx count = 0 latency = 0 outstanding request = 27404
+In the last 2s, tx count = 0 latency = 0 outstanding request = 27404
+In the last 2s, tx count = 0 latency = 0 outstanding request = 27404
+In the last 2s, tx count = 0 latency = 0 outstanding request = 27415
+In the last 2s, tx count = 0 latency = 0 outstanding request = 27455
+In the last 2s, tx count = 0 latency = 0 outstanding request = 27472
+In the last 2s, tx count = 0 latency = 0 outstanding request = 27473
+In the last 2s, tx count = 0 latency = 0 outstanding request = 27756
+In the last 2s, tx count = 0 latency = 0 outstanding request = 27775
+In the last 2s, tx count = 0 latency = 0 outstanding request = 28039
+In the last 2s, tx count = 0 latency = 0 outstanding request = 28927
+In the last 2s, tx count = 0 latency = 0 outstanding request = 29688
+In the last 2s, tx count = 0 latency = 0 outstanding request = 30478
+In the last 2s, tx count = 0 latency = 0 outstanding request = 31573
+In the last 2s, tx count = 0 latency = 0 outstanding request = 32559
+In the last 2s, tx count = 0 latency = 0 outstanding request = 33592
+In the last 2s, tx count = 0 latency = 0 outstanding request = 34485
+In the last 2s, tx count = 0 latency = 0 outstanding request = 34485
+In the last 2s, tx count = 0 latency = 0 outstanding request = 34485
+In the last 2s, tx count = 0 latency = 0 outstanding request = 34485
+In the last 2s, tx count = 0 latency = 0 outstanding request = 34485
+In the last 2s, tx count = 0 latency = 0 outstanding request = 34485
+In the last 2s, tx count = 0 latency = 0 outstanding request = 34485
+In the last 2s, tx count = 0 latency = 0 outstanding request = 34485
+In the last 2s, tx count = 0 latency = 0 outstanding request = 34485
+In the last 2s, tx count = 0 latency = 0 outstanding request = 34485
+In the last 2s, tx count = 0 latency = 0 outstanding request = 34485
+In the last 2s, tx count = 0 latency = 0 outstanding request = 34485
+In the last 2s, tx count = 0 latency = 0 outstanding request = 34485
+In the last 2s, tx count = 0 latency = 0 outstanding request = 34485
+In the last 2s, tx count = 0 latency = 0 outstanding request = 34485
+In the last 2s, tx count = 0 latency = 0 outstanding request = 34502
+In the last 2s, tx count = 0 latency = 0 outstanding request = 34546
+In the last 2s, tx count = 0 latency = 0 outstanding request = In theIn the last 2s, tx count = 0 latency = 0 outstanding request = 34565
+ last 2s, tx count = 0 latency = 0 outstanding request = 34612

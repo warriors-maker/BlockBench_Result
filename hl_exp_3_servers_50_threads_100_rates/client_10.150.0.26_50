@@ -1,0 +1,461 @@
+Current TIP = 1
+In the last 2s, tx count = 0 latency = 0.00424486 outstanding request = 0
+In the last 2s, tx count = 0 latency = 0 outstanding request = 492
+In the last 2s, tx count = 0 latency = 0 outstanding request = 2341
+In the last 2s, tx count = 0 latency = 0 outstanding request = 7316
+polled block 1 : 499 txs 
+In the last 2s, tx count = 248 latency = 2007.7 outstanding request = 11814
+In the last 2s, tx count = 0 latency = 0 outstanding request = 13853
+In the last 2s, tx count = 0 latency = 0 outstanding request = 13853
+In the last 2s, tx count = 0 latency = 0 outstanding request = 13853
+In the last 2s, tx count = 0 latency = 0 outstanding request = 13853
+In the last 2s, tx count = 0 latency = 0 outstanding request = 13867
+In the last 2s, tx count = 0 latency = 0 outstanding request = 13867
+In the last 2s, tx count = 0 latency = 0 outstanding request = 13867
+In the last 2s, tx count = 0 latency = 0 outstanding request = 13867
+In the last 2s, tx count = 0 latency = 0 outstanding request = 13853
+In the last 2s, tx count = 0 latency = 0 outstanding request = 13853
+In the last 2s, tx count = 0 latency = 0 outstanding request = 13867
+In the last 2s, tx count = 0 latency = 0 outstanding request = 13853
+In the last 2s, tx count = 0 latency = 0 outstanding request = 13867
+In the last 2s, tx count = 0 latency = 0 outstanding request = 13853
+In the last 2s, tx count = 0 latency = 0 outstanding request = 13867
+In the last 2s, tx count = 0 latency = 0 outstanding request = 13867
+In the last 2s, tx count = 0 latency = 0 outstanding request = 13867
+In the last 2s, tx count = 0 latency = 0 outstanding request = 13867
+In the last 2s, tx count = 0 latency = 0 outstanding request = 13867
+In the last 2s, tx count = 0 latency = 0 outstanding request = 13867
+In the last 2s, tx count = 0 latency = 0 outstanding request = 13867
+In the last 2s, tx count = 0 latency = 0 outstanding request = 13867
+In the last 2s, tx count = 0 latency = 0 outstanding request = 14109
+In the last 2s, tx count = 0 latency = 0 outstanding request = 14481
+In the last 2s, tx count = 0 latency = 0 outstanding request = 16754
+polled block 2 : 498 txs 
+polled block 3 : 498 txs 
+polled block 4 : 500 txs 
+polled block 5 : 500 txs 
+polled block 6 : 500 txs 
+polled block 7 : 500 txs 
+polled block 8 : 500 txs 
+polled block 9 : 500 txs 
+polled block 10 : 500 txs 
+polled block 11 : 500 txs 
+polled block 12 : 500 txs 
+polled block 13 : 500 txs 
+polled block 14 : 500 txs 
+polled block 15 : 500 txs 
+polled block 16 : 500 txs 
+polled block 17 : 500 txs 
+polled block 18 : 500 txs 
+polled block 19 : 500 txs 
+polled block 20 : 500 txs 
+polled block 21 : 500 txs 
+polled block 22 : 500 txs 
+polled block 23 : 500 txs 
+polled block 24 : 500 txs 
+polled block 25 : 500 txs 
+polled block 26 : 500 txs 
+polled block 27 : 500 txs 
+polled block 28 : 500 txs 
+polled block 29 : 500 txs 
+polled block 30 : 500 txs 
+polled block 31 : 500 txs 
+polled block 32 : 500 txs 
+polled block 33 : 500 txs 
+polled block 34 : 500 txs 
+polled block 35 : 500 txs 
+polled block 36 : 500 txs 
+polled block 37 : 500 txs 
+polled block 38 : 500 txs 
+polled block 39 : 500 txs 
+polled block 40 : 500 txs 
+polled block 41 : 500 txs 
+polled block 42 : 500 txs 
+polled block 43 : 500 txs 
+polled block 44 : 500 txs 
+polled block 45 : 500 txs 
+polled block 46 : 500 txs 
+polled block 47 : 500 txs 
+polled block 48 : 500 txs 
+polled block 49 : 500 txs 
+polled block 50 : 500 txs 
+polled block 51 : 500 txs 
+polled block 52 : 500 txs 
+polled block 53 : 500 txs 
+polled block 54 : 500 txs 
+polled block 55 : 500 txs 
+polled block 56 : 500 txs 
+polled block 57 : 500 txs 
+polled block 58 : 500 txs 
+polled block 59 : 500 txs 
+polled block 60 : 500 txs 
+polled block 61 : 500 txs 
+polled block 62 : 500 txs 
+polled block 63 : 500 txs 
+polled block 64 : 500 txs 
+polled block 65 : 500 txs 
+polled block 66 : 500 txs 
+polled block 67 : 500 txs 
+polled block 68 : 500 txs 
+polled block 69 : 500 txs 
+polled block 70 : 500 txs 
+polled block 71 : 500 txs 
+polled block 72 : 500 txs 
+polled block 73 : 500 txs 
+polled block 74 : 500 txs 
+polled block 75 : 500 txs 
+polled block 76 : 500 txs 
+polled block 77 : 500 txs 
+polled block 78 : 500 txs 
+polled block 79 : 500 txs 
+polled block 80 : 500 txs 
+polled block 81 : 500 txs 
+polled block 82 : 500 txs 
+polled block 83 : 500 txs 
+polled block 84 : 500 txs 
+polled block 85 : 500 txs 
+polled block 86 : 500 txs 
+polled block 87 : 500 txs 
+polled block 88 : 500 txs 
+polled block 89 : 500 txs 
+In the last 2s, tx count = 10495 latency = 637136 outstanding request = 11619
+polled block 90 : 500 txs 
+polled block 91 : 500 txs 
+polled block 92 : 500 txs 
+polled block 93 : 500 tpolled block 94 : 500 txs 
+polled block 95 : 500 txs 
+In the last 2s, tx count = 0 latency = 0 outstpolled block 95 : 500 tpolled block 96 : 500 txs 
+In the last 2s, tx count = 0 latency = 0 outstanding request = 16026
+In the last 2s, tx count = 0 latency = 0 outstanding request = 16887
+In the last 2s, tx count = 0 latency = 0 outstanding request = 16887
+In the last 2s, tx count = 0 latency = 0 outstanding request = 16887
+In the last 2s, tx count = 0 latency = 0 outstanding request = 16887
+In the last 2s, tx count = 0 latency = 0 outstanding request = 16887
+In the last 2s, tx count = 0 latency = 0 outstanding request = 16887
+In the last 2s, tx count = 0 latency = 0 outstanding request = 16887
+In the last 2s, tx count = 0 latency = 0 outstanding request = 16887
+In the last 2s, tx count = 0 latency = 0 outstanding request = 16887
+In the last 2s, tx count = 0 latency = 0 outstanding request = 16887
+In the last 2s, tx count = 0 latency = 0 outstanding request = 16887
+In the last 2s, tx count = 0 latency = 0 outstanding request = 16887
+In the last 2s, tx count = 0 latency = 0 outstanding request = 16887
+In the last 2s, tx count = 0 latency = 0 outstanding request = 16887
+In the last 2s, tx count = 0 latency = 0 outstanding request = 16887
+In the last 2s, tx count = 0 latency = 0 outstanding request = 16887
+In the last 2s, tx count = 0 latency = 0 outstanding request = 16887
+In the last 2s, tx count = 0 latency = 0 outstanding request = 16887
+In the last 2s, tx count = 0 latency = 0 outstanding request = 16887
+In the last 2s, tx count = 0 latency = 0 outstanding request = 16887
+In the last 2s, tx count = 0 latency = 0 outstanding request = 16887
+In the last 2s, tx count = 0 latency = 0 outstanding request = 17340
+In the last 2s, tx count = 0 latency = 0 outstanding request = 18599
+polled block 97 : 500 txs 
+polled block 98 : 500 txs 
+polled block 99 : 500 txs 
+polled block 100 : 500 txs 
+polled block 101 : 500 txs 
+polled block 102 : 500 txs 
+polled block 103 : 500 txs 
+polled block 104 : 500 txs 
+polled block 105 : 500 txs 
+polled block 106 : 500 txs 
+polled block 107 : 500 txs 
+polled block 108 : 500 txs 
+polled block 109 : 500 txs 
+polled block 110 : 500 txs 
+polled block 111 : 500 txs 
+polled block 112 : 500 txs 
+polled block 113 : 500 txs 
+polled block 114 : 500 txs 
+polled block 115 : 500 txs 
+polled block 116 : 500 txs 
+polled block 117 : 500 txs 
+polled block 118 : 500 txs 
+polled block 119 : 500 txs 
+polled block 120 : 500 txs 
+polled block 121 : 500 txs 
+polled block 122 : 500 txs 
+polled block 123 : 500 txs 
+polled block 124 : 500 txs 
+polled block 125 : 500 txs 
+polled block 126 : 500 txs 
+polled block 127 : 500 txs 
+polled block 128 : 500 txs 
+polled block 129 : 500 txs 
+polled block 130 : 500 txs 
+polled block 131 : 500 txs 
+polled block 132 : 500 txs 
+polled block 133 : 500 txs 
+polled block 134 : 500 txs 
+polled block 135 : 500 txs 
+polled block 136 : 500 txs 
+polled block 137 : 500 txs 
+polled block 138 : 500 txs 
+polled block 139 : 500 txs 
+polled block 140 : 101 txs 
+polled block 141 : 500 txs 
+polled block 142 : 500 txs 
+polled block 143 : 500 txs 
+polled block 144 : 500 txs 
+polled block 145 : 500 txs 
+polled block 146 : 500 txs 
+polled block 147 : 500 txs 
+polled block 148 : 500 txs 
+polled block 149 : 500 txs 
+polled block 150 : 500 txs 
+polled block 151 : 500 txs 
+polled block 152 : 500 txs 
+polled block 153 : 500 txs 
+polled block 154 : 500 txs 
+polled block 155 : 500 txs 
+polled block 156 : 500 txs 
+polled block 157 : 500 txs 
+polled block 158 : 500 txs 
+polled block 159 : 500 txs 
+polled block 160 : 500 txs 
+polled block 161 : 500 txs 
+polled block 162 : 168 txs 
+polled block 163 : 500 txs 
+polled block 164 : 500 txs 
+polled block 165 : 500 txs 
+polled block 166 : 500 txs 
+In the last 2s, tx count = 3793 latency = 194812 outstanding request = 19974
+polled block 167 : 500 txs 
+polled block 168 : 500 txs 
+polled block 169 : 500 txs 
+pollpolled block 170 : 500 txs 
+polled block 171 : 500 txs 
+polled block 172 : 500 txs 
+In the last 2s, tx count = 84 latency = 536.4polled block 172 : 500 txs 
+polpolled block 173 : 500 txs 
+In the last 2s, tx count = 27 latency = 218.641 outstanding request = 233In In the last 2s, tx count = 0 latency = 0 outstanding request = 247polIn the last 2s, tx count = 0 latency = 0 outstanding request = 27411
+In the last 2s, tx count = 0 latency = 0 outstanding request = 27411
+In the last 2s, tx count = 0 latency = 0 outstanding request = 27411
+In the last 2s, tx count = 0 latency = 0 outstanding request = 27411
+In the last 2s, tx count = 0 latency = 0 outstanding request = 27411
+In the last 2s, tx count = 0 latency = 0 outstanding request = 27411
+In the last 2s, tx count = 0 latency = 0 outstanding request = 27411
+In the last 2s, tx count = 0 latency = 0 outstanding request = 27411
+In the last 2s, tx count = 0 latency = 0 outstanding request = 27411
+In the last 2s, tx count = 0 latency = 0 outstanding request = 27411
+In the last 2s, tx count = 0 latency = 0 outstanding request = 27411
+In the last 2s, tx count = 0 latency = 0 outstanding request = 27411
+In the last 2s, tx count = 0 latency = 0 outstanding request = 27411
+In the last 2s, tx count = 0 latency = 0 outstanding request = 27411
+In the last 2s, tx count = 0 latency = 0 outstanding request = 27411
+In the last 2s, tx count = 0 latency = 0 outstanding request = 27411
+In the last 2s, tx count = 0 latency = 0 outstanding request = 27411
+In the last 2s, tx count = 0 latency = 0 outstanding request = 27411
+In the last 2s, tx count = 0 latency = 0 outstanding request = 27411
+In the last 2s, tx count = 0 latency = 0 outstanding request = 27411
+In the last 2s, tx count = 0 latency = 0 outstanding request = 27705
+polled block 174 : 500 txs 
+polled block 175 : 500 txs 
+polled block 176 : 0 txs 
+polled block 177 : 0 txs 
+polled block 178 : 0 txs 
+polled block 179 : 0 txs 
+polled block 180 : 0 txs 
+polled block 181 : 500 txs 
+polled block 182 : 500 txs 
+polled block 183 : 500 txs 
+polled block 184 : 0 txs 
+polled block 185 : 500 txs 
+polled block 186 : 500 txs 
+polled block 187 : 500 txs 
+polled block 188 : 500 txs 
+polled block 189 : 500 txs 
+polled block 190 : 500 txs 
+polled block 191 : 500 txs 
+polled block 192 : 500 txs 
+polled block 193 : 500 txs 
+polled block 194 : 500 txs 
+polled block 195 : 500 txs 
+polled block 196 : 500 txs 
+polled block 197 : 500 txs 
+polled block 198 : 500 txs 
+polled block 199 : 1 txs 
+polled block 200 : 500 txs 
+polled block 201 : 500 txs 
+polled block 202 : 500 txs 
+polled block 203 : 500 txs 
+polled block 204 : 500 txs 
+polled block 205 : 500 txs 
+polled block 206 : 500 txs 
+polled block 207 : 500 txs 
+polled block 208 : 500 txs 
+polled block 209 : 500 txs 
+polled block 210 : 500 txs 
+polled block 211 : 500 txs 
+polled block 212 : 500 txs 
+polled block 213 : 500 txs 
+polled block 214 : 500 txs 
+polled block 215 : 500 txs 
+polled block 216 : 500 txs 
+polled block 217 : 500 txs 
+polled block 218 : 500 txs 
+polled block 219 : 500 txs 
+polled block 220 : 500 txs 
+polled block 221 : 500 txs 
+polled block 222 : 500 txs 
+polled block 223 : 500 txs 
+polled block 224 : 500 txs 
+polled block 225 : 500 txs 
+polled block 226 : 500 txs 
+polled block 227 : 500 txs 
+polled block 228 : 500 txs 
+polled block 229 : 500 txs 
+polled block 230 : 500 txs 
+polled block 231 : 500 txs 
+polled block 232 : 500 txs 
+polled block 233 : 500 txs 
+polled block 234 : 500 txs 
+polled block 235 : 500 txs 
+polled block 236 : 500 txs 
+polled block 237 : 500 txs 
+polled block 238 : 500 txs 
+polled block 239 : 500 txs 
+polled block 240 : 500 txs 
+polled block 241 : 500 txs 
+polled block 242 : 500 txs 
+polled block 243 : 500 txs 
+polled block 244 : 500 txs 
+polled block 245 : 500 txs 
+polled block 246 : 500 txs 
+polled block 247 : 500 txs 
+polled block 248 : 500 txs 
+polled block 249 : 500 txs 
+polled block 250 : 500 txs 
+polled block 251 : 500 txs 
+polled block 252 : 500 txs 
+polled block 253 : 500 txs 
+polled block 254 : 500 txs 
+polled block 255 : 500 txs 
+polled block 256 : 500 txs 
+polled block 257 : 500 txs 
+polled block 258 : 500 txs 
+polled block 259 : 500 txs 
+polled block 260 : 500 txs 
+In the last 2s, tx count = 6206 latency = 347324 outstanding request = 25693
+polled block 261 : 500 txs 
+polled block 262 : 500 txs 
+polled block 263 : 500 txs 
+polled block 264 : 500 txs 
+polled block 265 : 500 txs 
+polled block 266 : 500 txs 
+polled block 267 : 500 txs 
+In the last 2s, tx count = 675 latency = 39022.3 outstanding request = 25346
+polled block 268 : 500 txs 
+polled block 269 : 500 txs 
+polled block 270 : 500 txs 
+In the last 2s, tx count = 585 latency = 35199.1 outspolled block 270 : 500 tIn the last 2s, tx count = 0 latency = 0 outstanding request = 30726
+polled block 271 : 500 txs 
+polled block 272 : 500 txs 
+polled block 273 : 500 txs 
+polled block 274 : 500 txs 
+polled block 275 : 500 txs 
+In the last 2s, tx count = 195 latency = 12381.5 outstanding polled block 275In the last 2s, tx count = 0 latency = 0 outstanding request = 33340
+In the last 2s, tx count = 0 latency = 0 outstanding request = 33340
+In the last 2s, tx count = 0 latency = 0 outstanding request = 33340
+In the last 2s, tx count = 0 latency = 0 outstanding request = 33340
+In the last 2s, tx count = 0 latency = 0 outstanding request = 33340
+In the last 2s, tx count = 0 latency = 0 outstanding request = 33340
+In the last 2s, tx count = 0 latency = 0 outstanding request = 33340
+In the last 2s, tx count = 0 latency = 0 outstanding request = 33340
+In the last 2s, tx count = 0 latency = 0 outstanding request = 33340
+In the last 2s, tx count = 0 latency = 0 outstanding request = 33340
+In the last 2s, tx count = 0 latency = 0 outstanding request = 33340
+In the last 2s, tx count = 0 latency = 0 outstanding request = 33340
+In the last 2s, tx count = 0 latency = 0 outstanding request = 33340
+In the last 2s, tx count = 0 latency = 0 outstanding request = 33340
+In the last 2s, tx count = 0 latency = 0 outstanding request = 33340
+In the last 2s, tx count = 0 latency = 0 outstanding request = 33340
+In the last 2s, tx count = 0 latency = 0 outstanding request = 33340
+In the last 2s, tx count = 0 latency = 0 outstanding request = 33340
+In the last 2s, tx count = 0 latency = 0 outstanding request = 33340
+In the last 2s, tx count = 0 latency = 0 outstanding request = 33340
+In the last 2s, tx count = 0 latency = 0 outstanding request = 33773
+polled block 276 : 0 txs 
+polled block 277 : 0 txs 
+polled block 278 : 0 txs 
+polled block 279 : 0 txs 
+polled block 280 : 0 txs 
+polled block 281 : 0 txs 
+polled block 282 : 0 txs 
+polled block 283 : 0 txs 
+polled block 284 : 0 txs 
+polled block 285 : 0 txs 
+polled block 286 : 0 txs 
+polled block 287 : 0 txs 
+polled block 288 : 0 txs 
+polled block 289 : 0 txs 
+polled block 290 : 0 txs 
+polled block 291 : 0 txs 
+polled block 292 : 0 txs 
+polled block 293 : 0 txs 
+polled block 294 : 0 txs 
+polled block 295 : 0 txs 
+polled block 296 : 0 txs 
+polled block 297 : 0 txs 
+polled block 298 : 0 txs 
+polled block 299 : 0 txs 
+polled block 300 : 0 txs 
+polled block 301 : 0 txs 
+polled block 302 : 0 txs 
+polled block 303 : 0 txs 
+polled block 304 : 0 txs 
+polled block 305 : 0 txs 
+polled block 306 : 0 txs 
+polled block 307 : 0 txs 
+polled block 308 : 0 txs 
+polled block 309 : 0 txs 
+polled block 310 : 0 txs 
+polled block 311 : 0 txs 
+polled block 312 : 0 txs 
+polled block 313 : 0 txs 
+polled block 314 : 0 txs 
+polled block 315 : 0 txs 
+polled block 316 : 0 txs 
+polled block 317 : 0 txs 
+polled block 318 : 0 txs 
+polled block 319 : 0 txs 
+polled block 320 : 0 txs 
+polled block 321 : 0 txs 
+polled block 322 : 0 txs 
+polled block 323 : 0 txs 
+polled block 324 : 0 txs 
+polled block 325 : 0 txs 
+polled block 326 : 0 txs 
+polled block 327 : 0 txs 
+polled block 328 : 0 txs 
+polled block 329 : 0 txs 
+polled block 330 : 0 txs 
+polled block 331 : 0 txs 
+polled block 332 : 0 txs 
+polled block 333 : 0 txs 
+polled block 334 : 0 txs 
+polled block 335 : 0 txs 
+polled block 336 : 0 txs 
+polled block 337 : 0 txs 
+polled block 338 : 0 txs 
+polled block 339 : 0 txs 
+polled block 340 : 0 txs 
+polled block 341 : 0 txs 
+polled block 342 : 0 txs 
+polled block 343 : 0 txs 
+polled block 344 : 0 txs 
+polled block 345 : 0 txs 
+polled block 346 : 0 txs 
+polled block 347 : 0 txs 
+polled block 348 : 0 txs 
+polled block 349 : 0 txs 
+polled block 350 : 0 txs 
+polled block 351 : 0 txs 
+polled block 352 : 0 txs 
+polled block 353 : 0 txs 
+polled block 354 : 0 txs 
+polled block 355 : 0 txs 
+polled block 356 : 0 txs 
+polled block 357 : 0 txs 
+polled block 358 : 0 txs 
+In the last 2s, tx count = 0 latency = 0 outstanding requesIn the lasIn the last 2s, tx count = 0 latency = 0 outstanding request = 33836
